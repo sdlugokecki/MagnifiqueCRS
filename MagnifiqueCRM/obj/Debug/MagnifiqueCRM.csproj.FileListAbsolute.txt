@@ -1,0 +1,110 @@
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\MagnifiqueCRM.dll.config
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\MagnifiqueCRM.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\MagnifiqueCRM.pdb
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Antlr3.Runtime.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\EntityFramework.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\EntityFramework.SqlServer.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Newtonsoft.Json.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Owin.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Helpers.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Mvc.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Optimization.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Razor.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.WebPages.Deployment.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.WebPages.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.WebPages.Razor.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\WebGrease.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Helpers.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Mvc.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Optimization.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.Razor.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.WebPages.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.WebPages.Deployment.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\System.Web.WebPages.Razor.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Newtonsoft.Json.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Antlr3.Runtime.pdb
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\EntityFramework.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\EntityFramework.SqlServer.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\obj\Debug\MagnifiqueCRM.csprojResolveAssemblyReference.cache
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\obj\Debug\MagnifiqueCRM.dll
+c:\users\sdlugokecki\documents\visual studio 2013\Projects\MagnifiqueCRM\MagnifiqueCRM\obj\Debug\MagnifiqueCRM.pdb
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\MagnifiqueCRM.dll.config
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\MagnifiqueCRM.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\MagnifiqueCRM.pdb
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Antlr3.Runtime.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\EntityFramework.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\EntityFramework.SqlServer.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Google.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Web.Infrastructure.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Newtonsoft.Json.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Owin.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Helpers.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Mvc.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Optimization.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Razor.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.WebPages.Deployment.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.WebPages.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.WebPages.Razor.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\WebGrease.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Helpers.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Mvc.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Optimization.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.Razor.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.WebPages.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.WebPages.Deployment.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\System.Web.WebPages.Razor.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Newtonsoft.Json.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Antlr3.Runtime.pdb
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\EntityFramework.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\EntityFramework.SqlServer.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Google.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\obj\Debug\MagnifiqueCRM.csprojResolveAssemblyReference.cache
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\obj\Debug\MagnifiqueCRM.dll
+C:\GITRepo\MagnifiqueCRS\MagnifiqueCRM\obj\Debug\MagnifiqueCRM.pdb
