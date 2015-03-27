@@ -1,4 +1,3 @@
-# MagnifiqueCRS
 # MagnifiqueCRM
 <ul>
   <li>
