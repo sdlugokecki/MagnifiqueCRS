@@ -10,6 +10,7 @@ using Model.Model;
 using Model;
 using Interfaces;
 using Model.ViewModel;
+using AutoMapper;
 
 namespace MagnifiqueCRM.Controllers
 {
@@ -26,20 +27,9 @@ namespace MagnifiqueCRM.Controllers
 		public ActionResult Index()
 		{
 			var baseData = _testData.GetAll();
-			List<TestDataViewModel> viewDatas = new List<TestDataViewModel>();
-
-			foreach (var data in baseData)
-			{
-				viewDatas.Add(new TestDataViewModel
-				{
-					Date = data.Date,
-					Id = data.Id,
-					Name = data.Name,
-					Value = data.Value
-				});
-			}
-
-			return View(viewDatas);
+			IList<TestDataViewModel> viewResults = Mapper.Map<IEnumerable<TestData>, IList<TestDataViewModel>>(baseData);
+			
+			return View(viewResults);
 		}
 
 		// GET: /TestData/Details/5
@@ -50,10 +40,12 @@ namespace MagnifiqueCRM.Controllers
 				return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
 			}
 			TestData testdata = _testData.Find(id.Value);
+
 			if (testdata == null)
 			{
 				return HttpNotFound();
 			}
+	
 			return View(testdata);
 		}
 
@@ -68,20 +60,13 @@ namespace MagnifiqueCRM.Controllers
 		// more details see http://go.microsoft.com/fwlink/?LinkId=317598.
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public ActionResult Create([Bind(Include = "Id,Name,Date,Value")] TestDataViewModel viewData)
+		public ActionResult Create(TestDataViewModel viewData)
 		{
 			if (ModelState.IsValid)
 			{
-				var baseData = new TestData
-				{
-					Name = viewData.Name,
-					Date = viewData.Date,
-					Value = viewData.Value,
-					CreateBy = "Crud add",
-					CreateDate = DateTime.Now
-				};
-
+				var baseData = Mapper.Map<TestDataViewModel, TestData>(viewData);
 				_testData.Add(baseData);
+
 				return RedirectToAction("Index");
 			}
 
@@ -96,19 +81,13 @@ namespace MagnifiqueCRM.Controllers
 				return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
 			}
 			TestData testdata = _testData.Find(id.Value);
-			
+
 			if (testdata == null)
 			{
 				return HttpNotFound();
 			}
 
-			TestDataViewModel viewData = new TestDataViewModel
-			{
-				Id = testdata.Id,
-				Name = testdata.Name,
-				Date = testdata.Date,
-				Value = testdata.Value
-			};
+			var viewData = Mapper.Map<TestData, TestDataViewModel>(testdata);
 
 			return View(viewData);
 		}
@@ -118,21 +97,13 @@ namespace MagnifiqueCRM.Controllers
 		// more details see http://go.microsoft.com/fwlink/?LinkId=317598.
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public ActionResult Edit([Bind(Include = "Id,Name,Date,Value")] TestDataViewModel viewData)
+		public ActionResult Edit(TestDataViewModel viewData)
 		{
 			if (ModelState.IsValid)
 			{
-				var baseData = new TestData
-				{
-					Id = viewData.Id,
-					Name = viewData.Name,
-					Date = viewData.Date,
-					Value = viewData.Value,
-					UpdateBy = "Crud update",
-					UpdateDate = DateTime.Now
-				};
-
+				var baseData = Mapper.Map<TestDataViewModel, TestData>(viewData);
 				_testData.Update(baseData);
+
 				return RedirectToAction("Index");
 			}
 			return View(viewData);
@@ -146,10 +117,12 @@ namespace MagnifiqueCRM.Controllers
 				return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
 			}
 			TestData testdata = _testData.Find(id.Value);
+	
 			if (testdata == null)
 			{
 				return HttpNotFound();
 			}
+			
 			return View(testdata);
 		}
 

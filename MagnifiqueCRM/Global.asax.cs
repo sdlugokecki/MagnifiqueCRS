@@ -21,6 +21,7 @@ namespace MagnifiqueCRM
 		protected void Application_Start()
 		{
 			IocConfig.RegisterDependencies();
+			MapperConfig.CreateMaps();
 			AreaRegistration.RegisterAllAreas();
 			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
 			RouteConfig.RegisterRoutes(RouteTable.Routes);
