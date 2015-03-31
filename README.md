@@ -1,20 +1,10 @@
-# MagnifiqueCRM
-<ul>
-  <li>
-    EF6, 
-  </li>
-  <li>
-    MVC  5
-  </li>
-  <li>
-    DI: Autofac? 
-  </li>
-  <li>
-    JS framework: Knockout?, Agular?, Backbone? - Will it be even needed?
-  </li>
-  <li>
-    Error login: Elmah?
-  </li>
-
-<br/>
+# MagnifiqueCRM 
 Splendind...again
+### Used tools
+* ```EntityFramework ```
+* ```MVC 5```
+* Dependency injection ```Autofac```
+* ```Automapper 3.3.1```
+* ```Bootstrap 3.0```
+* JS framework: Knockout?, Agular?, Backbone? - Will it be even needed?
+* Error login: Elmah? 
